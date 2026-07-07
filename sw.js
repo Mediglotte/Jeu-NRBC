@@ -1,5 +1,5 @@
 /* NRBC : le jeu — service worker (fonctionnement hors-ligne) */
-const CACHE = "nrbc-v2";
+const CACHE = "nrbc-v3";
 const ASSETS = [
   "./",
   "./index.html",
